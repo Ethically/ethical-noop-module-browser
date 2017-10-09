@@ -1,0 +1,15 @@
+{
+  "name": "ethical-noop-module-browser",
+  "version": "0.0.1",
+  "description": "Test mock node module with \"browser\" entry for the Ethical framework.",
+  "browser": "./browser.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ethically/ethical-noop-module-browser.git"
+  },
+  "author": "m-a-r-c-e-l-i-n-o <me@marceli.no>",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}
